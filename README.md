@@ -1,4 +1,4 @@
 descryptochat.py
 ================
 
-thiis makes chatting so crypto
+this makes chatting so crypto
