@@ -1,4 +1,6 @@
 descryptochat.py
 ================
 
-this makes chatting so crypto
+This makes chatting so crypto...
+
+Credits go to [nullx32](https://github.com/nullx31/descryptochat.py) for providing the base files
